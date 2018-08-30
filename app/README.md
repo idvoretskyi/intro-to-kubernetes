@@ -4,9 +4,8 @@ Deploying a Standalone Application
 Deploying the Application Using the CLI
 ---------------------------------------
 
-```
 Creating a webserver Deployment:
-```
+
 
 ```
     kubectl create -f webserver.yaml
