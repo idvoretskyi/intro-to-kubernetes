@@ -1,4 +1,4 @@
-intro-to-kubernetes
+Intro to Kubernetes
 ===================
 
 In this course, we will discuss some of Kubernetes' basic concepts and talk about the architecture of the system, the problems it solves, and the model that it uses to handle containerized deployments and scaling.
